@@ -4,6 +4,8 @@ title: Home
 ---
 # UX Design Technologist Intern Job Description (Draft)
 
+![Birds flying](bixal-image-8-logo-100.jpg)
+
 ## Summary of role
 
 The purpose of this role is to support the launch of a pilot team to focus on rapid prototyping for business development. You will be part of a three-person team (two design technologists and a team lead) that will be able to quicky execute on a broad range of lean discovery and prototype delivery activities. The goal is to increase our chances of winning work and raise our profile by helping clients envision what is possible when using and design and technology to tackle civic tech problems.
